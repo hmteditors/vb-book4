@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model  href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Iliad</title>
+        <editor>Pankhuri Dayal</editor>
+        <editor>Meryl Janmaat</editor>
+        <editor>David J. Wright</editor>
+        <editor>Mackense Greico</editor>
+        <editor>Natalie DiMattia</editor>
+      </titleStmt>
+      <publicationStmt>
+        <p>Unpublished edition of the Venetus B manuscript for the Homer Multitext project</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Edited directly from photography of the manuscript</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="4">
+        <l n="title">ἀρχὴ τῆς δέλτα <persName n="urn:cite2:hmt:pers.v1:pers17">ὁμήρου</persName> ἰλιάδος ⁑</l>
+        <l n="12">καὶ νῦν ἐξεσάωσεν ὀϊόμενον θανέεσθαι:</l>
+        <l n="13">ἀλλ' ἤτοι νίκη μὲν ἀρηϊφίλου <persName n="urn:cite2:hmt:pers.v1:pers119">Μενελάου</persName>:</l>
+        <l n="14">ἡμεῖς δὲ φραζώμεθ' ὅπως ἔσται τάδε ἔργα:</l>
+        <l n="15">ἤ ῥ' αὖτις πόλεμόν τε κακὸν καὶ φύλοπιν αἰνὴν</l>
+        <l n="16">ὄρσομεν; ἦ φιλότητα μετ' ἀμφοτέροισι βάλωμεν:</l>
+        <l n="17">εἰ δ' αὕτως τόδε πᾶσι φίλον καὶ ἡδὺ γένοιτο.</l>
+      </div>
+    </body>
+  </text>
+</TEI>

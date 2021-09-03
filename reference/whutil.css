@@ -1,0 +1,56 @@
+html		{ background: #DDD; }
+
+body		{
+    background: #fff;
+    color: black;
+    font: 100% "Gentium", "Lucida Grande", "Arial Unicode MS", sans-serif;
+    width: 80%;
+    padding: 2em;
+    margin: 1em;
+    border: 1px solid #555;
+    line-height : 130%;
+
+}
+
+.bold {
+    font-weight : bolder;
+    font-variant: small-caps;
+    color: blue;
+
+}
+
+.sperrtext {
+    letter-spacing : 0.4em;
+}
+
+.italic {
+    font-style : italic;
+}
+
+
+.superscript {
+    line-height : 0em;
+    position : relative;
+    bottom: 0.5em;
+    font-size : 85%;
+}
+
+div.entry {
+    border-bottom: solid silver 1px;
+    margin-bottom: 4em;
+}
+
+div.content {
+    width : 85%;
+}
+
+div.attribution {
+    float : right;
+    width : 15%;
+    padding-left : 1em;
+}
+
+div div.entry {
+  margin-below: 4em;
+  margin-left: 2em;
+}

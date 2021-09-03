@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model  href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Scholia to Venetus B</title>
+        <editor>YOUR NAME</editor>
+        <editor>YOUR NAME</editor>
+      </titleStmt>
+      <publicationStmt>
+        <p>Unpublished</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Transcribed from Venetus B MS</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <group n="4">
+      <text n="msB">
+        <body>
+
+          <div n="51r_5" type="scholion">
+            <div n="lemma">
+              <p>
+                <num value="19">ιθ</num>
+              </p>
+            </div>
+            <div n="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msB:4.1@οἱ</p>
+            </div>
+            <div n="comment">
+              <p>πιθανῶς ἐκ τοῦ κάτωθεν θορύβου, ἐις 
+                 <choice><abbr>ὀυνὸν</abbr><expan>οὐρανὸν</expan></choice>
+                τὴν σκηνὴν μετήγαγεν: σεμνύνων καὶ ποικίλλων ἅμα τὴν ποίησιν,
+                τόποις τὲ καὶ προσώποις καὶ λόγοις: ὑπονοεῖν δε δεῖ παρὰ τὴν
+                ἁρπαγὴν ἀλεξάνδρου τοὺς λογους γεγενῆσθαι τοῖς θεοῖς:  ηὔξησε δὲ 
+                τὸ ἀγωνιστικὸν τῆς ὑποθέσεως τῇ τῶν θεῶν προνοίᾳ ⁑
+              </p>
+            </div>
+          </div>
+
+          <div n="51v_1" type="scholion">
+            <div n="lemma">
+              <p>
+                <num value="1">α</num>
+              </p>
+            </div>
+            <div n="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msB:4.13@νίκη</p>
+            </div>
+            <div n="comment">
+              <p>λείπει τὸ <rs n="waw">ἐστί</rs>: διέκρινε δὲ τὸ ἀμφίβολον ὁ τοῦ <persName n="urn:cite2:hmt:pers.v1:pers8">Διός</persName> λόγος: ὅπως μὴ δοκῆ ὁ ποιητής τοῖς <rs n="urn:cite2:hmt:place.v1:place96" type="ethnic">Ἀχαιοῖς</rs> χαρίζεσθαι⁑</p>
+            </div>
+          </div>
+
+          <div n="51v_2" type="scholion">
+            <div n="lemma">
+              <p>
+                <num value="2">β</num>
+              </p>
+            </div>
+            <div n="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msB:4.14@ἔργα</p>
+            </div>
+            <div n="comment">
+              <p>βραχὺ διασταλτέον εἰς τὸ <rs n="waw">ἔργα</rs>. τὸ δὲ μετ' αὐτὰ <q>ἦ ῥ'</q> δύο μέρη εἰσὶ λόγου: ἐλλείπει γὰρ τοῦ ῥ <rs type="waw">α</rs> συνδέσμου τὸ <rs type="waw">α</rs>: ἄρχεται δὲ τῶν κερτομιῶν ἤδη⁑</p>
+            </div>
+          </div>
+
+           <div n="51v_3" type="scholion">
+            <div n="lemma">
+              <p>
+                <num value="2">γ</num>
+              </p>
+            </div>
+            <div n="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msB:4.15@</p>
+            </div>
+            <div n="comment">
+              <p>ἐπει δὴ κατὰ φύλα μάχονται: περισπαστέον δὲ καὶ τὸ ἦ φιλότητα ἔστι γὰρ διαπορητικός</p>
+            </div>
+          </div>
+        
+        </body>
+      </text>
+    </group>
+  </text>
+</TEI>
