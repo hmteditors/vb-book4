@@ -2,6 +2,9 @@
 
 > Editing *Iliad* 4 in the Venetus B manuscript.
 
+
+## Previous work to build on
+
 *Iliad* 4 begins on folio 51 recto: here's a link to the [Image Citation Tool for 51 recto](vb_50v_51r).
 
 We worked on *Iliad* 4 during the HMT 2021 Summer Experience.  To create a complete edition of book 4, you should begin with Team 1's work (already added to this repository), complete it, and progress through material from each of the following repositories:
