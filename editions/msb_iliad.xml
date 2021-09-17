@@ -10,6 +10,7 @@
         <editor>David J. Wright</editor>
         <editor>Mackense Greico</editor>
         <editor>Natalie DiMattia</editor>
+
       </titleStmt>
       <publicationStmt>
         <p>Unpublished edition of the Venetus B manuscript for the Homer Multitext project</p>
@@ -29,6 +30,29 @@
         <l n="15">ἤ ῥ' αὖτις πόλεμόν τε κακὸν καὶ φύλοπιν αἰνὴν</l>
         <l n="16">ὄρσομεν; ἦ φιλότητα μετ' ἀμφοτέροισι βάλωμεν:</l>
         <l n="17">εἰ δ' αὕτως τόδε πᾶσι φίλον καὶ ἡδὺ γένοιτο.</l>
+        
+        <l n="18">ἤτοι μὲν οἰκέοιτο πόλις <persName n="urn:cite2:hmt:pers.v1:pers145">Πριάμοιο</persName> ἄνακτος:</l>
+        <l n="19">αὖτις δ᾽ Ἀργείην <persName n="urn:cite2:hmt:pers.v1:pers94">Ἑλένην</persName> <persName n="urn:cite2:hmt:pers.v1:pers119">Μενέλαος</persName> ἄγοιτο:</l>
+        <l n="20">ὣς ἔφαθ' αἳ δ' ἐπέμυξαν <persName n="urn:cite2:hmt:pers.v1:pers67">Ἀθηναίη</persName> τε καὶ <persName n="urn:cite2:hmt:pers.v1:pers116"> Ἥρη</persName>:</l>
+        <l n="21">πλησίαι αἵ γ' ἥσθην. κακὰ δὲ <rs type="ethnic" n="urn:cite2:hmt:pers.v1:pers220">Τρώεσσι</rs> μεδέσθην:</l>
+        <l n="22">ἤτοι <persName n="urn:cite2:hmt:pers.v1:pers67">Ἀθηναίη</persName>, ἀκέων ἦν: οὐδέ τι εἶπεν</l>
+        <l n="23">σκυζομένη <persName n="urn:cite2:hmt:pers.v1:pers8">Διὶ</persName>: χόλος δέ μιν ἄγριος ᾕρει:</l>
+        <l n="24"><persName n="urn:cite2:hmt:pers.v1:pers116">Ἥρη</persName> δ' οὐκ ἔχαδε στῆθος χόλον. ἀλλὰ προσηύδα:</l>
+        <l n="25">αἰνότατε <persName n="urn:cite2:hmt:pers.v1:pers8">Κρονίδη</persName>: ποῖον τὸν μῦθον ἔειπες:</l>
+        <l n="26">πῶς ἐθέλεις ἅλιον θεῖναι πόνον ἤδ' ἀτέλεστον.</l>
+        <l n="27">ἱδρῶ θ' ὃν ἵδρωσα μόγῳ: καμέτην δέ μοι ἵπποι</l>
+        <l n="28">λαὸν ἀγειρούσῃ <persName n="urn:cite2:hmt:pers.v1:pers145">Πριάμῳ</persName> κακὰ τοῖό τε παισίν:</l>
+        <l n="29">ἕρδ' ἀτὰρ οὔ τοι πάντες ἐπαινέομεν θεοὶ ἄλλοι:</l>
+        <l n="30">τὴν δε μέγ' ὀχθήσας προσέφη νεφεληγερέτα <persName n="urn:cite2:hmt:pers.v1:pers8">Ζεύς</persName>:</l>
+        <l n="31">δαιμονίη: τί νύ σε <persName n="urn:cite2:hmt:pers.v1:pers145">Πρίαμος</persName> <persName n="urn:cite2:hmt:pers.v1:pers145">Πριάμοιό</persName> τε παῖδες</l>
+        <l n="32">τόσσα κακὰ ῥέζουσιν, ὅ τ' ἀσπερχὲς μενεαίνεις</l>
+        <l n="33">Ἰλίου ἐξαλαπάξαι ἐϋκτίμενον πτολίεθρον:</l>
+        <l n="34">εἰ δὲ σύ γ' εἰσελθοῦσα πύλας καὶ τείχεα μακρὰ;</l>
+        <l n="35">ὠμὸν βεβρώθοις <persName n="urn:cite2:hmt:pers.v1:pers145">Πρίαμον</persName> <persName n="urn:cite2:hmt:pers.v1:pers145">Πριάμοιό</persName> τε παῖδας:</l>
+
+
+
+
       </div>
     </body>
   </text>
