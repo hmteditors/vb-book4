@@ -9,13 +9,14 @@
         <editor>Meryl Janmaat</editor>
         <editor>David J. Wright</editor>
         <editor>Mackense Greico</editor>
-        <editor>Natalie DiMattia</editor>f
+        <editor>Natalie DiMattia</editor>
         <editor>Dennis Ryan</editor>
-        <editor>Sophie Cassaarino</editor>
+        <editor>Sophie Cassarino</editor>
         <editor>Rose Kaczmarek</editor>
         <editor>Alexandra Berardelli</editor>
 
-      </titleStmt>
+      </titleStmt>.
+      
       <publicationStmt>
         <p>Unpublished edition of the Venetus B manuscript for the Homer Multitext project</p>
       </publicationStmt>
@@ -79,24 +80,36 @@
         <l n="58">καὶ γὰρ ἐγὼ θεός εἰμι: γένος δέ μοι ἔνθεν ὅθεν σοί:</l>
         <l n="59">καί με πρεσβυτάτην τέκετο <persName n="urn:cite2:hmt:pers.v1:pers139">Κρόνος</persName> ἀγκυλομήτης,</l>
         
-        <l n="60">ἀμφότερον. γενεῇ τε, καὶ οὕνεκα σὴ παράκοιτις</l>
-        <l n="61">κέκλημαι σὺ δε πᾶσι μετ' ἀθανάτοισιν ἀνάσσεις:</l>
-        <l n="62">ἀλλ' ἤτοι μὲν ταῦθ' ὑποείξομεν ἀλλήλοισι:</l>
-        <l n="63">σοὶ μὲν ἐγώ: σὺ δ' ἐμοί: ἐπὶ δ' ἕψονται θεοὶ ἄλλοι</l>
-        <l n="64">ἀθάνατοι: σὺ δὲ θᾶσσον <persName n="urn:cite2:hmt:pers.v1:pers67">Ἀθηναίῃ</persName> ἐπιτεῖλαι</l>
-        <l n="65">ἐλθεῖν ἐς <rs type="ethnic" n="urn:cite2:hmt:pers.v1:pers220">Τρώων</rs> καὶ <rs type="ethnic" n="urn:cite2:hmt:place.v1:place96">Ἀχαιῶν</rs> φύλοπιν αἰνήν:</l>
-        
-        <l n="66">πειρᾶν δ' ὥς κεν <rs type="ethnic" n="urn:cite2:hmt:pers.v1:pers220">Τρῶες</rs> ὑπερκύδαντας <rs type="ethnic" n="urn:cite2:hmt:place.v1:place96">Ἀχαιοὺς</rs></l>
-        <l n="67">ἄρξωσι πρότεροι ὑπερόρκια δηλήσασθαι:</l>
-        <l n="68">ὣς ἔφατ' οὐδ' ἀπίθησε <choice><abbr>πὴρ</abbr><expan>πατὴρ</expan></choice> ἀνδρῶν τε θεῶν τε:</l>
-        <l n="69">αὐτίκ' <persName n="urn:cite2:hmt:pers.v1:pers67">Ἀθηναίην</persName> ἔπεα πτερόεντα προσηύδα:</l>
-        <l n="70">αἶψα μάλ' ἐς στρατὸν ἐλθὲ μετὰ <rs type="ethnic" n="urn:cite2:hmt:pers.v1:pers220">Τρῶας</rs> καὶ <rs type="ethnic" n="urn:cite2:hmt:place.v1:place96">Ἀχαιούς</rs>:</l>
+       <l n="60">ἀμφότερον. γενεῇ τε, καὶ οὕνεκα σὴ παράκοιτις</l>
+       <l n="61">κέκλημαι σὺ δε πᾶσι μετ' ἀθανάτοισιν ἀνάσσεις:</l>
+       <l n="62">ἀλλ' ἤτοι μὲν ταῦθ' ὑποείξομεν ἀλλήλοισι:</l>
+       <l n="63">σοὶ μὲν ἐγώ: σὺ δ' ἐμοί: ἐπὶ δ' ἕψονται θεοὶ ἄλλοι</l>
+       <l n="64">ἀθάνατοι: σὺ δὲ θᾶσσον <persName n="urn:cite2:hmt:pers.v1:pers67">Ἀθηναίῃ</persName> ἐπιτεῖλαι</l>
+       <l n="65">ἐλθεῖν ἐς <rs type="ethnic" n="urn:cite2:hmt:pers.v1:pers220">Τρώων</rs> καὶ <rs type="ethnic" n="urn:cite2:hmt:place.v1:place96">Ἀχαιῶν</rs> φύλοπιν αἰνήν:</l>
+       <l n="66">πειρᾶν δ' ὥς κεν <rs type="ethnic" n="urn:cite2:hmt:pers.v1:pers220">Τρῶες</rs> ὑπερκύδαντας <rs type="ethnic" n="urn:cite2:hmt:place.v1:place96">Ἀχαιοὺς</rs></l>
+       <l n="67">ἄρξωσι πρότεροι ὑπερόρκια δηλήσασθαι:</l>
+       <l n="68">ὣς ἔφατ' οὐδ' ἀπίθησε <choice><abbr>πὴρ</abbr><expan>πατὴρ</expan></choice> ἀνδρῶν τε θεῶν τε:</l>
+       <l n="69">αὐτίκ' <persName n="urn:cite2:hmt:pers.v1:pers67">Ἀθηναίην</persName> ἔπεα πτερόεντα προσηύδα:</l>
+       <l n="70">αἶψα μάλ' ἐς στρατὸν ἐλθὲ μετὰ <rs type="ethnic" n="urn:cite2:hmt:pers.v1:pers220">Τρῶας</rs> καὶ <rs type="ethnic" n="urn:cite2:hmt:place.v1:place96">Ἀχαιούς</rs>:</l>
+       <l n="71">πειρᾶν δ' ὥς κεν <rs type="ethnic" n="urn:cite2:hmt:pers.v1:pers220">Τρῶες</rs> ὑπερκύδαντας <rs type="ethnic" n="urn:cite2:hmt:place.v1:place96">Ἀχαιοὺς</rs></l>
+       <l n="72">ἄρξωσι πρότεροι ὑπερόρκια δηλήσασθαι:</l>
+       <l n="73">ὣς εἰπὼν ὤτρυνε πάρος μεμαυῖαν <persName n="urn:cite2:hmt:pers.v1:pers67">Ἀθήνην</persName>:</l>
+       <l n="74">βῆ δὲ κατ' <placeName n="urn:cite2:hmt:place.v1:place45">Οὐλύμποιο</placeName> καρήνων ἀΐξασα:</l>
+       <l n="75">οἷον δ' ἀστέρα ἧκε <persName n="urn:cite2:hmt:pers.v1:pers139">Κρόνου</persName> παῖς ἀγκυλομήτεω</l>
+       <l n="76">ἢ ναύτῃσι τέρας ἠὲ στρατῷ εὐρέϊ λαῶν,</l>
+       <l n="77">λαμπρὸν: τοῦ δέ τε πολλοὶ ἀπὸ σπινθῆρες ἵενται;</l>
+       <l n="78">τῷ εἰκυῖ' ἤϊξεν ἐπὶ χθόνα <persName n="urn:cite2:hmt:pers.v1:pers67">Παλλὰς Ἀθήνη</persName></l>
+       <l n="79">κὰδ δ' ἔθορ' ἐς μέσσον: θάμβος δ' ἔχεν εἰσορόωντας</l>
+       <l n="80"><rs type="ethnic" n="urn:cite2:hmt:pers.v1:pers220">Τρῶάς</rs> θ' ἱπποδάμους καὶ ἐϋκνήμιδας <rs type="ethnic" n="urn:cite2:hmt:place.v1:place96">Ἀχαιούς</rs>:</l>
+       <l n="81">ὧδε δέ τις εἴπεσκεν ἰδὼν ἐς πλησίον ἄλλον:</l>
+       <l n="82">ἦ ῥ' αὖτις πόλεμός τε κακὸς καὶ φύλοπις αἰνὴ</l>
+       <l n="83">ἔσσεται: ἢ φιλότητα μετ' ἀμφοτέροισι τίθησι</l>
 
-        <l n="71">πειρᾶν δ' ὥς κεν <rs type="ethnic" n="urn:cite2:hmt:pers.v1:pers220">Τρῶες</rs> ὑπερκύδαντας <rs type="ethnic" n="urn:cite2:hmt:place.v1:place96">Ἀχαιοὺς</rs></l>
+       <l n="84"><persName n="urn:cite2:hmt:pers.v1:pers8">Ζεύς</persName>, ὅς τ' ἀνθρώπων ταμίης πολέμοιο τέτυκται:</l>
+       <l n="85">ὣς ἄρα τις εἴπεσκεν <rs type="ethnic" n="urn:cite2:hmt:place.v1:place96">Ἀχαιῶν</rs> τε <rs type="ethnic" n="urn:cite2:hmt:pers.v1:pers220">Τρώων</rs> τε.</l>
+       <l n="86">ἣ δ' ἀνδρὶ ἰκέλη <rs type="ethnic" n="urn:cite2:hmt:pers.v1:pers220">Τρώων</rs> κατεδύσεθ' ὅμιλον</l>
 
 
-
-        
 
 
 
