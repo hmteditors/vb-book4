@@ -15,7 +15,7 @@
         <editor>Rose Kaczmarek</editor>
         <editor>Alexandra Berardelli</editor>
 
-      </titleStmt>.
+      </titleStmt>
       
       <publicationStmt>
         <p>Unpublished edition of the Venetus B manuscript for the Homer Multitext project</p>
@@ -108,6 +108,26 @@
        <l n="84"><persName n="urn:cite2:hmt:pers.v1:pers8">Ζεύς</persName>, ὅς τ' ἀνθρώπων ταμίης πολέμοιο τέτυκται:</l>
        <l n="85">ὣς ἄρα τις εἴπεσκεν <rs type="ethnic" n="urn:cite2:hmt:place.v1:place96">Ἀχαιῶν</rs> τε <rs type="ethnic" n="urn:cite2:hmt:pers.v1:pers220">Τρώων</rs> τε.</l>
        <l n="86">ἣ δ' ἀνδρὶ ἰκέλη <rs type="ethnic" n="urn:cite2:hmt:pers.v1:pers220">Τρώων</rs> κατεδύσεθ' ὅμιλον</l>
+       <l n="87"><persName n="urn:cite2:hmt:pers.v1:pers1069">Λαοδόκῳ Ἀντηνορίδῃ</persName> κρατερῷ αἰχμητῇ:</l>
+       <l n="88"><persName n="urn:cite2:hmt:pers.v1:pers216">Πάνδαρον</persName> ἀντίθεον διζημένη εἴ που ἐφεύροι:</l>
+       <l n="89">εὗρε <persName n="urn:cite2:hmt:pers.v1:pers140">Λυκάονος</persName> υἱὸν ἀμύμονά τε κρατερόν τε</l>
+       <l n="90">ἑσταότ': ἀμφὶ δέ μιν κρατεραὶ στίχες ἀσπιστάων</l>
+       <l n="91">λαῶν: οἵ οἱ ἕποντο ἀπ' <placeName n="urn:cite2:hmt:place.v1:place252">Αἰσήποιο</placeName> ῥοάων:</l>
+       <l n="92">ἀγχοῦ δ' ἱσταμένη ἔπεα πτερόεντα προσηύδα:</l>
+       <l n="93">ἦ ῥά νύ μοί τι πΐθοιο <persName n="urn:cite2:hmt:pers.v1:pers140">Λυκάονος</persName> υἱὲ δαΐφρον;</l>
+       <l n="94">τλαίης κεν <persName n="urn:cite2:hmt:pers.v1:pers119">Μενελάῳ</persName> ἐπὶ προέμεν ταχὺν ἰόν;</l>
+       <l n="95">πᾶσι δέ κε <rs type="ethnic" n="urn:cite2:hmt:pers.v1:pers220">Τρώεσσι</rs> χάριν καὶ κῦδος ἄροιο:</l>
+       <l n="96">ἐκ πάντων δὲ μάλιστ' <persName n="urn:cite2:hmt:pers.v1:pers129">Ἀλεξάνδρῳ</persName> βασιλῆϊ.</l>
+       <l n="97">τοῦ κεν δὴ πάμπρωτα παρ᾽ ἀγλαὰ δῶρα φέροιο;</l>
+       <l n="98">αἴ κεν ἴδῃ <persName n="urn:cite2:hmt:pers.v1:pers119">Μενέλαον</persName> ἀρήϊον <persName n="urn:cite2:hmt:pers.v1:pers23">Ἀτρέος</persName> υἱὸν</l>
+       <l n="99">σῷ βέλεϊ δμηθέντα, πυρῆς ἐπιβάντ᾽ ἀλεγεινῆς:</l>
+       <l n="100">ἀλλ᾽ ἄγ᾽ ὀΐστευσον <persName n="urn:cite2:hmt:pers.v1:pers119">Μενελάου</persName> κυδαλίμοιο:</l>
+       <l n="101">εὔχεο δ᾽ <persName n="urn:cite2:hmt:pers.v1:pers40">Ἀπόλλωνι</persName> Λυκηγενέϊ κλυτοτόξῳ,</l>
+       <l n="102">ἀρνῶν πρωτογόνων ῥέξειν κλειτὴν ἑκατόμβην</l>
+       <l n="103">οἴκαδε νοστήσας ἱερῆς εἰς ἄστυ <placeName n="urn:cite2:hmt:place.v1:place88">Ζελείης</placeName>:</l>
+
+
+
 
 
 
