@@ -1,7 +1,7 @@
 #!citerelationset
 urn|urn:cite2:hmt:dse.v1:msBschol4
 label|Collection of DSE records for Iliad 4 in the Venetus B
-passage|imageroi|surface
+psg|img|surface
 urn:cts:greekLit:tlg5026.msB.hmt:4.51r_5|urn:cite2:hmt:vbbifolio.v1:vb_50v_51r@0.4994,0.2506,0.3675,0.06936|urn:cite2:hmt:msB.v1:51r
 urn:cts:greekLit:tlg5026.msB.hmt:4.51r_6|urn:cite2:hmt:vbbifolio.v1:vb_50v_51r@0.7351,0.3121,0.1264,0.04913|urn:cite2:hmt:msB.v1:51r
 
