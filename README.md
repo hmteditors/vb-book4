@@ -2,6 +2,14 @@
 
 > Editing *Iliad* 4 in the Venetus B manuscript.
 
+
+## Validating your work
+
+From a terminal (in VS Code or a separate terminal app), you can start the dashboard with:
+
+`julia --project=dashboard dashboard/validatordashboard.jl`
+
+
 ## Useful links
 
 - getting started: [technical requirements](https://homermultitext.github.io/hmt-se2021/tech/)
