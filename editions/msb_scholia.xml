@@ -5,8 +5,7 @@
     <fileDesc>
       <titleStmt>
         <title>Scholia to Venetus B</title>
-        <editor>YOUR NAME</editor>
-        <editor>YOUR NAME</editor>
+        <editor>Rebecca Rose Kaczmarek</editor>
       </titleStmt>
       <publicationStmt>
         <p>Unpublished</p>
@@ -55,6 +54,75 @@
               </p>
             </div>
           </div>
+
+          <div n="51r_7" type="scholion">
+            <div n="lemma">
+              <p>
+                <num value="21">κα</num>
+              </p>
+            </div>
+            <div n="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.msB:4.1@</p>
+            </div>
+            <div n="comment">
+              <p> δάσπεδαμὲν, τὰ ὁ μαλαον χωρία: γήπεδα δὲ, τὰ ἐν ταῖς πόλεσι προκεῖμεν ταῖς οἰκίαις οἷον κηπίδια: οἰκόπεδα δὲ, οἰκῖων ⁑
+              </p>
+            </div>
+          </div>
+
+            <div n="51r_8" type="scholion">
+           <div n="lemma">
+             <p>
+               <num value="22">κβ</num>
+             </p>
+           </div>
+           <div n="ref">
+             <p>urn:cts:greekLit:tlg0012.tlg001.msB:4.2@δὲ</p>
+           </div>
+           <div n="comment">
+             <p> τόνδε τὸν <q>δε</q> ὧδε ἀνθυπήγαγεν ὁ <q>δε</q>, συνδετικὸς γάρ, ἐστι καὶ αὐτῳ ἀεὶ ἀκολουθεῖ: ὡς τὸ <q>τήν δ' ἐξ ἁλὸς ἤπειρον ἔρυσσαν</q>: ἐκ δ' εὐνὰς ἔβαλον ἐκ δὲ καὶ αὐτοὶ βαῖνον ⁑
+             </p>
+           </div>
+         </div>
+
+         <div n="51r_9" type="scholion">
+           <div n="lemma">
+             <p>
+               <num value="23">κγ</num>
+             </p>
+           </div>
+           <div n="ref">
+             <p>urn:cts:greekLit:tlg0012.tlg001.msB:4.@</p>
+           </div>
+           <div n="comment">
+             <p> πλεονασμός ἐστιν ὡς τὸ <q>ἀνέωγε καὶ ἐήνδανε</q>: κατχρηστικῶς οὖν τὸ <q>ἐωνοχόουν ἐπὶ τοῦ νέκταρος</q>: ὡς τὸ <q>βωμον οἰκο δομεω</q>, καὶ <q>ἵππους βουκολέειν</q>: ποιεῖ δε τοῦτο, ὅτι περὶ <placeName n="urn:cite2:hmt:place.v1:place6">Ἰλίου</placeName> ὁλόγος: καὶ ἵνα εὐφράνη τὸ συμπόσιον, ἴσως λυπούμενον: μέων δὲ τὸ ὑπηρετεῖη. άφ' οὗ καὶ τοὺς δούλους παῖδας καλοῦμεν ⁑
+             </p>
+           </div>
+         </div>
+
+         <div n="51r_10" type="scholion">
+           <div n="lemma">
+             <p>
+               <num value="24">κδ</num>
+             </p>
+           </div>
+           <div n="ref">
+             <p>urn:cts:greekLit:tlg0012.tlg001.msB:4.@</p>
+           </div>
+           <div n="comment">
+             <p> ἀπὸ τῆς δεξιᾶς ἡ μεταφορά: καὶ τοῦτο δηλοῦται ἐκ τοῦ <q>πλησάμενος οἴνοιο δέπας, δείδεκτο</q>: καὶ ὁ φιλόφρων δὲ, ἀριδείκετος λέγεται ⁑
+             </p>
+           </div>
+         </div>
+
+
+
+
+
+
+
+
+
 
           <div n="51v_1" type="scholion">
             <div n="lemma">
