@@ -12,7 +12,7 @@ From a terminal (in VS Code or a separate terminal app), you can start the dashb
 
 
 ## Useful links
-
+ 
 - getting started: [technical requirements](https://homermultitext.github.io/hmt-se2021/tech/)
 - summary of [regul ar workflow](https://homermultitext.github.io/hmt-se2021/workflow/)
 - one-page [summary reference for HMT editors](https://homermultitext.github.io/hmt-se2021/references/) (URNs, character set usage, XML markup)
