@@ -1,5 +1,6 @@
 # vb-book4
 
+
 > Editing *Iliad* 4 in the Venetus B manuscript.
 
 
@@ -13,7 +14,7 @@ From a terminal (in VS Code or a separate terminal app), you can start the dashb
 ## Useful links
 
 - getting started: [technical requirements](https://homermultitext.github.io/hmt-se2021/tech/)
-- summary of [regular workflow](https://homermultitext.github.io/hmt-se2021/workflow/)
+- summary of [regul ar workflow](https://homermultitext.github.io/hmt-se2021/workflow/)
 - one-page [summary reference for HMT editors](https://homermultitext.github.io/hmt-se2021/references/) (URNs, character set usage, XML markup)
 - general reference: web site for [HMT Summer Experience 2021](https://homermultitext.github.io/hmt-se2021/)
 
